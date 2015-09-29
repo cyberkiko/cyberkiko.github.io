@@ -94,6 +94,10 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: $theme-gray-color-dark;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
 }
 
 .footer-heading {
@@ -121,11 +125,13 @@
 }
 
 .footer-col-1 {
+    float:right;
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
+    float:right;
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
