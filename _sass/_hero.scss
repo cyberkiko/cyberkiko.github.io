@@ -23,7 +23,7 @@
         left:50%;
         text-align: center;
         margin: auto;
-        width: 865px;
+        width: 885px;
         @include center-transform(-50%);
 
         @media all and (max-width: 1024px) {
@@ -44,22 +44,23 @@
         font-weight: 100;
         letter-spacing: em(0);
         text-transform: uppercase;
+        width:880px;
 
         -webkit-animation-delay: 2s;
         -moz-animation-delay: 2s;
         animation-delay: 2s;
 
         span {
-            margin-left:-30px;
             font-weight: 900;
             font-style: italic;
+            margin-left:-21px;
 
             @media all and (max-width: 1024px) {
-                margin-left:-10px;
+                margin-left:-18px;
             }
 
             @media all and (max-width: 768px) {
-                margin-left:-5px;
+                margin-left:-15px;
             }
         }
     }
