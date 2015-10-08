@@ -11,3 +11,7 @@ linkedin_username: cyberkiko
 
 # Build settings
 markdown: kramdown
+
+#gems
+gems:
+  - octopress-autoprefixer
