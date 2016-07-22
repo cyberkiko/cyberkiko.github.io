@@ -1,16 +1,15 @@
 ---
-layout: page
+layout: simple
 title: Alberto Estrada
 permalink: /resume/
 ---
-
-# Alberto Estrada
 
 ### Senior Web Developer
 
 
 
 ------
+
 
 I'm a web developer with more than 10 years of experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion to pursue an excellent product delivery. Also, I'm a team player and love challenging projects.
 
