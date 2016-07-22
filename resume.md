@@ -23,7 +23,7 @@ I'm a web developer with more than 10 years of experience across a range of web 
 
 ## Experience
 
-**Nobox** *Senior Web Developer* Miami, Florida __June 2011 to present__
+**Nobox** *Senior Web Developer* - Miami, Florida - __June 2011 to present__
 
 Nobox is an award-winning full-service digital marketing agency based in Miami. With solutions backed by a multi-disciplinary team. I grew in this company from web developer and just a coder to a senior developer. I had the opportunity to lead projects and bring ideas, solutions to create a world class product.
 
@@ -38,11 +38,11 @@ Nobox is an award-winning full-service digital marketing agency based in Miami. 
 
 
 
-**ARBIMON/University of Puerto Rico** *Web Developer* San Juan, Puerto Rico __May 2007 to May 2010__
+**ARBIMON/University of Puerto Rico** *Web Developer* - San Juan, Puerto Rico - __May 2007 to May 2010__
 
 ARBIMON (Automated Remote Biodiversity Monitoring Network) today has evolved to provide various solutions for acoustic monitoring. I was in charge of the web page and also helped with the development of the first versions of the ARBIMON web and mobile app.
 
-**Manatee Conservation Center of Puerto Rico** *Freelance Web Developer & IT* Puerto Rico __2009 to 2014__
+**Manatee Conservation Center of Puerto Rico** *Freelance Web Developer & IT* - Puerto Rico - __2009 to 2014__
 
 Created, managed a WordPress website for the Center and provided IT services.
 
