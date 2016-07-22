@@ -31,12 +31,15 @@
 /**
  * #OBJECTS
  */
+@import "objects.section";
+@import "objects.wrapper";
 
 /**
  * #COMPONENTS
  */
 @import "components.hero";
 @import "components.navigation";
+@import "components.profile";
 
 /**
  * #TRUMPS
