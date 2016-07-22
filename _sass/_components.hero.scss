@@ -1,3 +1,7 @@
+/**
+ * Hero component
+ */
+
 .hero {
     overflow: hidden;
     background-size: cover;
@@ -6,7 +10,6 @@
     position: relative;
     background-image: url('../assets/img/hero-screens--desk.jpg');
     height: 100vh;
- //   max-height: 846px;
 
     @media all and (max-width: 768px) {
         height: 50vw;
@@ -16,6 +19,7 @@
         height: 60vw;
     }
 }
+
 
     .hero__content {
         position: absolute;
@@ -46,12 +50,10 @@
         text-transform: uppercase;
         width:880px;
 
-        animation-delay: 2s;
-
         span {
             font-weight: 900;
             font-style: italic;
-            margin-left:em(-21, 100.5); // cambiarlo a em
+            margin-left:em(-21, 100.5);
 
             @media all and (max-width: 1024px) {
                 margin-left:-18px;
@@ -63,7 +65,7 @@
         }
     }
 
-    .subtitle {
+    .hero__subtitle {
         font-size: em(30);
         font-style: italic;
 
@@ -73,7 +75,7 @@
 
     }
 
-    .soon {
+    .hero__soon {
         animation-delay: 2.5s;
     }
 
@@ -81,13 +83,12 @@
     @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 
     .fade-in {
-      opacity:0;  /* make things invisible upon start */
-      /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
-      animation:fadeIn ease-in 1;
+        opacity:0;  /* make things invisible upon start */
+        /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+        animation:fadeIn ease-in 1;
 
-      /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
-      animation-fill-mode:forwards;
+        /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+        animation-fill-mode:forwards;
 
-      animation-duration:3s;
+        animation-duration:3s;
     }
-

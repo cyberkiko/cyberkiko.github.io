@@ -1,0 +1,14 @@
+/*
+    Wrapper
+ */
+
+.wrapper {
+    width: em(880);
+    max-width: em(1100px);
+    padding-right: 10px;
+    padding-left:  10px;
+}
+
+.wrapper_slope {
+    transform: rotate(2deg);
+}
