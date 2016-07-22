@@ -6,6 +6,11 @@ permalink: /resume/
 
 ### Senior Web Developer
 
+albertoe@gmail.com
+
+787 241-4565
+
+[LinkedIn Profile](https://www.linkedin.com/in/cyberkiko)
 
 
 ------
@@ -16,7 +21,7 @@ I'm a web developer with more than 10 years of experience across a range of web 
 
 ------
 
-### Experience
+## Experience
 
 **Nobox** *Senior Web Developer* Miami, Florida __June 2011 to present__
 
@@ -44,7 +49,7 @@ Created, managed a WordPress website for the Center and provided IT services.
 
 ------
 
-### Education
+## Education
 
 **Specialization in Software Engineering (Computer Software Engineering)** __March 2012 to December 2012__
 
@@ -59,6 +64,6 @@ University of Puerto Rico, Rio Piedras Campus, San Juan, Puerto Rico
 
 ------
 
-### Technical Skills
+## Technical Skills
 Angular, AWS, BaseCamp, Bootstrap, Bower, BrowserStack, Campaign Monitor, CoffeScript, Composer, CSS, DigitalOcean, Electron, Envoyer, Express, Facebook Business Manager, Facebook Graph API, Facebook JS SDK, Facebook LIVE API, Laravel Forge, Git, Google AdWords API, Google Analytics, Google Maps API, Grunt, Gulp, Heroku, Homestead, HTML5, JavaScript, jQuery, Laravel, LESS, Litmus, MailChimp, MariaDB, Media Queries, MySQL, NewRelic, Nginx, Node, NPM, Oh-my-zsh, Omniture SiteCatalyst, PHP, PubNub, Pusher, RackSpace, Rollbar, SASS, SendGrid, Sketch, Socket IO, Ubuntu, Vagrant, Valet, WordPress
 
