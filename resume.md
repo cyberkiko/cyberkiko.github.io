@@ -6,7 +6,7 @@ permalink: /resume/
 
 ### Senior Web Developer
 
-albertoe@gmail.com
+hireme@albertoestrada.codes
 
 787 241-4565
 
