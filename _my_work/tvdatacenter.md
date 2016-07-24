@@ -1,5 +1,6 @@
 ---
-title: CopaAirlines - TV Data Center
+title: TV Data Center
+client: CopaAirlines
 image_path: ../assets/img/projects/tvdatacenter.jpg
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: God of Gif
+client: PlayStation
 image_path: ../assets/img/projects/god-of-gif.jpg
 ---
 

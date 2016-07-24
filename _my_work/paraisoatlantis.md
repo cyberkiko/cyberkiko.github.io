@@ -1,5 +1,6 @@
 ---
 title: Paraiso Atlantis
+client: Copa
 image_path: ../assets/img/projects/paraisoatlantis.jpg
 ---
 

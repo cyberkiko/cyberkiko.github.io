@@ -1,5 +1,6 @@
 ---
 title: The Selfie 1886
+client: PlayStation
 image_path: ../assets/img/projects/theselfie.jpg
 ---
 

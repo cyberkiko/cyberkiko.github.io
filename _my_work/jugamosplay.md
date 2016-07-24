@@ -1,5 +1,6 @@
 ---
-title: PlayStation - Jugamos Play
+title: Jugamos Play
+client: PlayStation
 image_path: ../assets/img/projects/jugamosplay.jpg
 ---
 

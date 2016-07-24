@@ -1,5 +1,6 @@
 ---
 title: Boleto Dorado
+client: CopaAirlines
 image_path: ../assets/img/projects/boletodorado.jpg
 ---
 

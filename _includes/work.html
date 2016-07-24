@@ -5,10 +5,21 @@
 
     <div class="row collapse small-up-1 medium-up-2 large-up-4">
     {% for work in site.my_work %}
-        <div class="column">
+        <div class="column work-item">
             <figure>
                 <img src="{{ work.image_path }}">
             </figure>
+            <div class="work-item--overlay">
+                <div class="work-item--overlay-content">
+                    <h2 clase="work-item--overlay-client">
+                        {{ work.client }}
+                    </h2>
+                    <h4 clase="work-item--overlay-title">
+                        {{ work.title }}
+                    </h4>
+                    <a class="button" href="#">Learn more</a>
+                </div>
+            </div>
         </div>
     {% endfor %}
     </div>

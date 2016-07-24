@@ -1,5 +1,6 @@
 ---
-title: Play Station Club Play
+title: Club Play
+client: PlayStation
 image_path: ../assets/img/projects/clubplay.jpg
 ---
 
