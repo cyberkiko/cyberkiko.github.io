@@ -9,6 +9,10 @@ twitter_username: cyberkiko
 github_username:  cyberkiko
 linkedin_username: cyberkiko
 
+collections:
+  my_work:
+
+
 # Build settings
 markdown: kramdown
 

@@ -32,3 +32,29 @@
     background-repeat: no-repeat;
     min-height: em(613);
 }
+
+.section_skills {
+    // background-color: #c6e6e8;
+    background-image: radial-gradient(at bottom left , #FFFFFF 0%, #c6e6e8 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: em(200);
+}
+
+
+.section_work {
+
+}
+
+    .section-heading {
+        background-color: #263238;
+        padding: 20px 0px 20px 0;
+    }
+
+    .section-heading  h1 {
+        text-transform: uppercase;
+        font-weight: bolder;
+        text-align: center;
+        margin:0;
+        padding:0;
+    }
