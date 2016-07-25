@@ -6,7 +6,7 @@ permalink: /resume/
 
 ### Senior Web Developer
 
-hireme@albertoestrada.codes
+hello@albertoestrada.codes
 
 787 241-4565
 
@@ -67,3 +67,4 @@ University of Puerto Rico, Rio Piedras Campus, San Juan, Puerto Rico
 ## Technical Skills
 Angular, AWS, BaseCamp, Bootstrap, Bower, BrowserStack, Campaign Monitor, CoffeScript, Composer, CSS, DigitalOcean, Electron, Envoyer, Express, Facebook Business Manager, Facebook Graph API, Facebook JS SDK, Facebook LIVE API, Laravel Forge, Git, Google AdWords API, Google Analytics, Google Maps API, Grunt, Gulp, Heroku, Homestead, HTML5, JavaScript, jQuery, Laravel, LESS, Litmus, MailChimp, MariaDB, Media Queries, MySQL, NewRelic, Nginx, Node, NPM, Oh-my-zsh, Omniture SiteCatalyst, PHP, PubNub, Pusher, RackSpace, Rollbar, SASS, SendGrid, Sketch, Socket IO, Ubuntu, Vagrant, Valet, WordPress
 
+### References available on request

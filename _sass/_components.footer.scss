@@ -1,0 +1,41 @@
+.footer {
+    background-color:$theme-gray-color-dark;
+    color: #FFF;
+    padding-top: em(30);
+    padding-bottom: em(30);
+    padding-left: em(40);
+    padding-right: em(40);
+
+    .sections a {
+        text-decoration: none;
+        color: #FFF;
+    }
+
+    .sections:hover a {
+        color:$theme-blue-color-light;
+    }
+
+}
+
+
+.footer ul {
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+}
+
+
+.copyright {
+    padding-top: em(20);
+    font-size: em(12);
+}
+
+
+.icon {
+    display: inline-block;
+    width: em(32);
+    height: em(32);
+    stroke-width: 0;
+    stroke: white;
+    fill: white;
+}

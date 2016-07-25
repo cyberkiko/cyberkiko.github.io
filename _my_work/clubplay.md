@@ -1,6 +1,7 @@
 ---
 title: Club Play
 client: PlayStation
+link: http://unetealclubplay.com
 image_path: ../assets/img/projects/clubplay.jpg
 ---
 

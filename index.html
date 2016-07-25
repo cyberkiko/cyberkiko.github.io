@@ -6,4 +6,22 @@ layout: default
     {% include hero.html %}
     {% include profile.html %}
     {% include work.html %}
+    {% include references.html %}
+    {% include footer.html %}
 </div>
+
+
+<script>
+    $( document ).ready(function() {
+
+        $('a[href^="#"]').on('click',function (e) {
+        e.preventDefault();
+
+        var target = this.hash;
+
+            $('html, body').stop().animate({
+                 'scrollTop': document.getElementById(target).offsetTop
+            }, 900, 'swing');
+        });
+    });
+</script>

@@ -17,7 +17,9 @@
                     <h4 clase="work-item--overlay-title">
                         {{ work.title }}
                     </h4>
-                    <a class="button" href="#">Learn more</a>
+                    {% if work.link %}
+                    <a class="button" href="#">Visit Site</a>
+                    {% endif %}
                 </div>
             </div>
         </div>
