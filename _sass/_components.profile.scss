@@ -8,15 +8,35 @@
 
     .profile__text {
 
-        position:relative;
-        left: 50%;
+        // position:relative;
+        // left: 50%;
         font-size: em(20);
         line-height: em(26);
-        width: 600px;
+        // width: 600px;
+        p {
+            @media all and (max-width: 646px) {
+                padding-right: 10px;
+                padding-left:10px;
+            }
+        }
+
         h1 {
+
+            @media all and (max-width: 646px) {
+                margin-top:0px;
+                font-size: em(25);
+                line-height: em(30);
+                margin-left: 10px;
+            }
             margin-top: em(20);
             text-transform: uppercase;
             font-size: em(40);
-            font-weight: bolder;
+            font-weight: 500;
+            padding-bottom: em(2);
         }
+    }
+
+    .profile-img {
+        // background-image: url('../assets/img/portrait-1.png');
+        // background-size: cover;
     }

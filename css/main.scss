@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 
+@import 'foundation.min.css';
 
 /**
  * #SETTINGS
@@ -41,6 +42,9 @@
 @import "components.hero";
 @import "components.navigation";
 @import "components.profile";
+@import "components.grid-list";
+@import "components.buttons";
+@import "components.footer";
 
 /**
  * #TRUMPS

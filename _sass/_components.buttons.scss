@@ -1,0 +1,28 @@
+.button {
+    display: inline-block;
+    background-color: white;
+    border: 0;
+    color: #021eb3;
+    padding-left: em(20);
+    padding-right: em(20);
+    padding-top: em(5);
+    padding-bottom: em(5);
+    font-weight: 700;
+    transition: background-color 300ms;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: $brand-color;
+
+}
+
+a.button {
+    color: #021eb3;
+    text-decoration: none;
+}
+
+a.button:hover {
+    color: #FFF;
+}
