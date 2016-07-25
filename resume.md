@@ -27,14 +27,20 @@ I’m a web developer with more than 7 years of experience across a range of web
 
 Nobox is an award-winning full-service digital marketing agency based in Miami. With solutions backed by a multi-disciplinary team. I grew in this company from web developer and just a coder to a senior developer. I had the opportunity to lead projects and bring ideas, solutions to create a world class product.
 
-> Some achievements
+Some achievements
 
-> * Created internal tools & services to facilitate day-to-day development
-> * Trained Junior Web Developers and helped to pursue a career
-> * I have led many projects in terms of development
-> * Helped to create a low cost and more efficient deployment process
-> * brought new technologies to our development stack
-> * Became specialized in Laravel PHP framework
+> Created internal tools & services to facilitate day-to-day development
+
+> Trained Junior Web Developers and helped to pursue a career
+
+> I have led many projects in terms of development
+
+> Helped to create a low cost and more efficient deployment process
+
+> Brought new technologies to our development stack
+
+> Became specialized in Laravel PHP framework
+
 
 
 
