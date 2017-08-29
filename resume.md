@@ -24,10 +24,12 @@ I’m a senior software engineer of experience across a range of web development
 ## Experience
 
 
-**BOALT - Interactive Business** *Lead Software Engineer, Full-Stack* - Miami, Florida - __April 2017 to present__
+**BOALT - Interactive Business** *Lead Software Engineer* - Miami, Florida - __April 2017 to present__
+
 After being a contractor to Boalt for releasing the LiveAnswer product, joined the Boalt team to work as Lead Engineer in new products. Also as a supervisor of other engineers for the maintenance and developing of other tools. 
 
 **LiveAnswer, Inc** *Senior Application Engineer* - Miami, Florida - __August 2016 to March 2017__
+
 LiveAnswer is reinventing the help desk into a multi-channel intelligent conversation by providing businesses around the world with a unified communication platform that seamlessly integrates phone, email, SMS, chat and social media into one simple Inbox.
 
 I work directly in the LiveAnswer engineering team to create and find solutions within the current/future product requirements. Main responsibilities include the development and maintenance of the application, focused on the backend and the core app.
