@@ -4,7 +4,7 @@ title: Alberto Estrada
 permalink: /resume/
 ---
 
-### Senior Web Developer
+### Senior Software Engineer
 
 hello@albertoestrada.codes
 
@@ -16,14 +16,23 @@ hello@albertoestrada.codes
 ------
 
 
-I’m a web developer with more than 7 years of experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects.
+I’m a senior software engineer of experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects.
 
 
 ------
 
 ## Experience
 
-**Nobox** *Senior Web Developer* - Miami, Florida - __June 2011 to present__
+
+**BOALT - Interactive Business** *Lead Software Engineer, Full-Stack* - Miami, Florida - __April 2017 to present__
+After being a contractor to Boalt for releasing the LiveAnswer product, joined the Boalt team to work as Lead Engineer in new products. Also as a supervisor of other engineers for the maintenance and developing of other tools. 
+
+**LiveAnswer, Inc** *Senior Application Engineer* - Miami, Florida - __August 2016 to March 2017__
+LiveAnswer is reinventing the help desk into a multi-channel intelligent conversation by providing businesses around the world with a unified communication platform that seamlessly integrates phone, email, SMS, chat and social media into one simple Inbox.
+
+I work directly in the LiveAnswer engineering team to create and find solutions within the current/future product requirements. Main responsibilities include the development and maintenance of the application, focused on the backend and the core app.
+
+**Nobox** *Senior Web Developer* - Miami, Florida - __June 2011 to July 2016__
 
 Nobox is an award-winning full-service digital marketing agency based in Miami. With solutions backed by a multi-disciplinary team. I grew in this company from web developer and just a coder to a senior developer. I had the opportunity to lead projects and bring ideas, solutions to create a world class product.
 
