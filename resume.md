@@ -8,7 +8,7 @@ permalink: /resume/
 
 hello@albertoestrada.codes
 
-787 241-4565
+(954) 646-7130
 
 [LinkedIn Profile](https://www.linkedin.com/in/cyberkiko)
 
