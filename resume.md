@@ -16,7 +16,8 @@ hello@albertoestrada.codes
 ------
 
 
-I’m a senior software engineer of experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects.
+I’m a senior software engineer of experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects. I have been mainly working in the LAMP stack, and I have been focusing my work arround PHP backend app, and currently ejoy working with Laravel Framework in which I been working since eary versions. 
+
 
 
 ------
@@ -88,6 +89,6 @@ University of Puerto Rico, Rio Piedras Campus, San Juan, Puerto Rico
 ------
 
 ## Technical Skills
-Angular, AWS, BaseCamp, Bootstrap, Bower, BrowserStack, Campaign Monitor, CoffeScript, Composer, CSS, DigitalOcean, Electron, Envoyer, Express, Facebook Business Manager, Facebook Graph API, Facebook JS SDK, Facebook LIVE API, Laravel Forge, Git, Google AdWords API, Google Analytics, Google Maps API, Grunt, Gulp, Heroku, Homestead, HTML5, JavaScript, jQuery, Laravel, LESS, Litmus, MailChimp, MariaDB, Media Queries, MySQL, NewRelic, Nginx, Node, NPM, Oh-my-zsh, Omniture SiteCatalyst, PHP, PubNub, Pusher, RackSpace, Rollbar, SASS, SendGrid, Sketch, Socket IO, Ubuntu, Vagrant, Valet, WordPress
+Angular, AWS, BaseCamp, Bootstrap, Bower, BrowserStack, Campaign Monitor, CoffeScript, Composer, CSS, DigitalOcean, Electron, Envoyer, Express, Facebook Business Manager, Facebook Graph API, Facebook JS SDK, Facebook LIVE API, Laravel, Laravel Forge, Git, Google AdWords API, Google Analytics, Google Maps API, Grunt, Gulp, Heroku, Homestead, HTML5, JavaScript, jQuery, Laravel, LESS, Litmus, MailChimp, MariaDB, MySQL, NewRelic, Nginx, Node, NPM, Oh-my-zsh, Omniture SiteCatalyst, PHP, PubNub, Pusher, RackSpace, SASS, SendGrid, Sketch, Socket IO, Ubuntu, Vagrant, Valet, WordPress
 
 ### References available on request
