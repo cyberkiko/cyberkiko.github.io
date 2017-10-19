@@ -15,8 +15,7 @@ hello@albertoestrada.codes
 
 ------
 
-
-I’m a senior software engineer of experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects. I have been mainly working in the LAMP stack, and I have been focusing my work arround PHP backend app, and currently ejoy working with Laravel Framework in which I been working since eary versions. 
+I’m a senior software engineer with experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects. I have been mainly working on the LAMP stack, and I have been focusing my work around PHP backend app, and currently, ejoy working with Laravel Framework in which I been working for a few years now. 
 
 
 
