@@ -25,7 +25,8 @@ I’m a lead platform engineer with experience across a range of web development
 
 **govWorks LLC** *Lead Platform Engineer* - Miami, Florida - __October 2017 to present__
 
-After work for more than a year for Boalt, I got the opportunity to be part of the leaders to build a new platform that will become the govWorks startup with launch date January 02, 2018. Helped the company to reach 1 Million of revenue in a single month after 6 month of release.
+After work for more than a year for Boalt. I got the opportunity to be part of the leaders to build a new platform, that will become the govWorks startup and we launched on January 2nd, 2018. Helped the company to reach 1 Million of revenue in a single month after 6 month of release.
+govWorks is a platform to eliminate bureaucracy of government application processes, by utilizing consumer-friendly best practices along with innovative technology.
 
 **BOALT - Interactive Business** *Lead Software Engineer* - Miami, Florida - __April 2017 to July 2018__
 
