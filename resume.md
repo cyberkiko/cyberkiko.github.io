@@ -15,7 +15,7 @@ hello@albertoestrada.codes
 
 ------
 
-I’m a senior software engineer with experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects. I have been mainly working on the LAMP stack, and I have been focusing my work around PHP backend apps, and currently, enjoy working with Laravel Framework in which I been working for a few years now. 
+I’m a lead platform engineer with experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects. I have been mainly working on the LAMP stack, and I have been focusing my work around PHP backend apps, and currently, enjoy working with Laravel Framework in which I been working for a few years now. 
 
 
 
@@ -23,8 +23,11 @@ I’m a senior software engineer with experience across a range of web developme
 
 ## Experience
 
+**govWorks LLC - ** *Lead Platform Engineer* - Miami, Florida - __October 2017 to present__
 
-**BOALT - Interactive Business** *Lead Software Engineer* - Miami, Florida - __April 2017 to present__
+After work for more than a year for Boalt, I got the opportunity to be part of the leaders to build a new platform that will become the govWorks startup with launch date January 02, 2018. Helped the company to reach 1 Million of revenue in a single month after 6 month of release.
+
+**BOALT - Interactive Business** *Lead Software Engineer* - Miami, Florida - __April 2017 to July 2018__
 
 After being a contractor to Boalt for releasing the LiveAnswer product, joined the Boalt team to work as Lead Engineer in new and current products. Also as a supervisor of other engineers for the maintenance and developing of other tools. 
 
@@ -88,6 +91,6 @@ University of Puerto Rico, Rio Piedras Campus, San Juan, Puerto Rico
 ------
 
 ## Technical Skills
-Angular, AWS, BaseCamp, Bootstrap, Bower, BrowserStack, Campaign Monitor, CoffeScript, Composer, CSS, DigitalOcean, Electron, Envoyer, Express, Facebook Business Manager, Facebook Graph API, Facebook JS SDK, Facebook LIVE API, Laravel, Laravel Forge, Git, Google AdWords API, Google Analytics, Google Maps API, Grunt, Gulp, Heroku, Homestead, HTML5, JavaScript, jQuery, Laravel, LESS, Litmus, MailChimp, MariaDB, MySQL, NewRelic, Nginx, Node, NPM, Oh-my-zsh, Omniture SiteCatalyst, PHP, PubNub, Pusher, RackSpace, SASS, SendGrid, Sketch, Socket IO, Ubuntu, Vagrant, Valet, WordPress
+AngularJS, AWS Console, BaseCamp, Bootstrap, Bower, BrowserStack, Campaign Monitor, Composer, CSS, DigitalOcean, Docker, Electron, Envoyer, Express, Facebook Business Manager, Facebook Graph API, Facebook JS SDK, Facebook LIVE API, Laravel, Laravel Forge, GitHub, Google AdWords API, Google Analytics, Google Maps API, Gulp, Heroku, Homestead, HTML5, JavaScript, jQuery, MariaDB, MySQL, NewRelic, Nginx, Node, NPM, PHP, Pusher, SASS, Sketch, Socket IO, Ubuntu, Vagrant, Valet, WordPress
 
 ### References available on request
