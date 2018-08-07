@@ -15,7 +15,7 @@ hello@albertoestrada.codes
 
 ------
 
-I’m a lead software engineer with experience across a range of web development, product development, and digital marketing. I will demonstrate initiative and passion for pursuing an excellent product delivery. Also, I’m a team player and love challenging projects. I have been mainly working on the LAMP stack, and I have been focusing my work around PHP backend apps, and currently, enjoy working with Laravel Framework in which I been working for a few years now. 
+Lead Software Engineer with experience across a range of web development, product development, and digital marketing skill sets. I consistently demonstrate initiative and passion for pursuing excellent product delivery. Team-player with a love for challenging projects. I have been mainly working on the LAMP stack, and I have been focusing my work around PHP backend apps, and currently, enjoy working with Laravel Framework in which I been working for a few years now. 
 
 
 
