@@ -4,8 +4,11 @@ title: Alberto Estrada
 permalink: /resume/
 ---
 ### Senior Software Engineer
+
 hello@albertoestrada.codes
+
 (954) 646-7130
+
 [LinkedIn Profile](https://www.linkedin.com/in/cyberkiko)
 
 ------
