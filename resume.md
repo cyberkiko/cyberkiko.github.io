@@ -46,17 +46,17 @@ Key contributions and achievements
 
 > Trained junior web developers and helped them pursue a career in the field
 
-> In the last 2 years, led all projects as the lead engineer, for both backend and database architecture
+> In my last 2 years, led all projects as the lead engineer, for both back-end and database architecture
 
 > Worked in tandem with our management staff to create a low-cost, high uptime and higher efficiency deployment process
 
 > Brought new technologies to our development stack
 
-> Became specialized in Laravel PHP framework
+> Became specialized in the Laravel PHP framework
 
-> Assisted in the production of cost estimates
+> Assisted in cost estimations
 
-> Responsible for preparing technical documentation for our API and backends
+> Responsible for preparing technical documentation for our API and back-end
 
 > Prepared bi-weekly proof-of-concept implementations to further our technological expertise and offerings
 
@@ -65,11 +65,11 @@ Key contributions and achievements
 
 **ARBIMON/University of Puerto Rico** *Web Developer* - San Juan, Puerto Rico - __May 2007 to May 2010__
 
-ARBIMON (Automated Remote Biodiversity Monitoring Network) today has evolved to provide various solutions for acoustic monitoring. I was in charge of the web page and also helped with the development of the first versions of the ARBIMON web and mobile app.
+ARBIMON (Automated Remote Biodiversity Monitoring Network) today has evolved to provide various solutions for acoustic monitoring. I was in charge of the website and also helped with the development of the first versions of the ARBIMON web and mobile app.
 
 **Manatee Conservation Center of Puerto Rico** *Freelance Web Developer & IT* - Puerto Rico - __2009 to 2014__
 
-Created, managed a WordPress website for the Center and provided IT services.
+Created & managed a WordPress website for the Center and provided IT services.
 
 
 ------
@@ -80,7 +80,7 @@ Created, managed a WordPress website for the Center and provided IT services.
 
 Pontificia Universidad Católica Argentina 'Santa María de los Buenos Aires', Buenos Aires, Argentina
 
-> This was Graduate program in software engineering of 1 year of duration
+> This was Graduate program in software engineering (duration 1 year)
 
 **Bachelor in Computer Science** __2003 to 2011__
 
