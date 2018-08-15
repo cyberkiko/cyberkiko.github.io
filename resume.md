@@ -13,7 +13,7 @@ hello@albertoestrada.codes
 
 ------
 
-Lead Software Engineer with experience across a range of web development, product development, and digital marketing skill sets. I consistently demonstrate initiative and passion for pursuing excellent product delivery. Team-player with a love for challenging projects. I have been mainly working on the LAMP stack, and I have been focusing my work around PHP backend apps, and currently, enjoy working with Laravel Framework in which I been working for a few years now. 
+Lead Software Engineer with experience across a range of web development, product development, and digital marketing skill sets. I consistently demonstrate initiative and passion for pursuing excellent product delivery. Team-player with a love for challenging projects. Primary expertice in the LAMP stack, with focus around developing PHP back-end apps. Currently I enjoy working with the Laravel Framework, which I've working with for 6 years now.
 
 
 
@@ -23,18 +23,18 @@ Lead Software Engineer with experience across a range of web development, produc
 
 **govWorks LLC** *Lead Platform Engineer* - Miami, Florida - __October 2017 to present__
 
-After work for more than a year for Boalt. I got the opportunity to be part of the leaders to build a new platform, that will become the govWorks startup and we launched on January 2nd, 2018. Helped the company to reach 1 Million of revenue in a single month after 6 month of release.
-govWorks is a platform to eliminate bureaucracy of government application processes, by utilizing consumer-friendly best practices along with innovative technology.
+After working for more than a year for Boalt, I took the opportunity to be part of the leadership in building a new platform, that became the govWorks startup, which we launched on January 2nd, 2018. I helped the company to reach 1 Million in revenue in a single month, 6 months after release.
+govWorks is a platform to eliminate bureaucracy of government application processes, by utilizing consumer-friendly best practices along with innovative technology. ( tech stuff ) 
 
 **BOALT - Interactive Business** *Lead Software Engineer* - Miami, Florida - __April 2017 to July 2018__
 
-After being a contractor to Boalt for releasing the LiveAnswer product, joined the Boalt team to work as Lead Engineer in new and current products. Also as a supervisor of other engineers for the maintenance and developing of other tools. 
+After contracting to Boalt building the LiveAnswer product, joined the Boalt team to work as the Lead Engineer for new and current products. Also acted as a supervisor of other engineers for the maintenance and development of other tools. 
 
 **LiveAnswer, Inc** *Senior Application Engineer* - Miami, Florida - __August 2016 to March 2017__
 
-LiveAnswer is reinventing the help desk into a multi-channel intelligent conversation by providing businesses around the world with a unified communication platform that seamlessly integrates phone, email, SMS, chat and social media into one simple Inbox.
+LiveAnswer was reinventing help desk into a multi-channel intelligent conversation by providing businesses around the world with a unified communication platform that seamlessly integrates phone, email, SMS, chat and social media into one simple Inbox.
 
-I work directly in the LiveAnswer engineering team to create and find solutions within the current/future product requirements. Main responsibilities include the development and maintenance of the application, focused on the backend and the core app.
+I worked directly on the LiveAnswer engineering team to create and find solutions within the current/future product requirements. Main responsibilities included the development and maintenance of the application, with a focus on the back-end and the core app.
 
 **Nobox** *Senior Web Developer* - Miami, Florida - __June 2011 to July 2016__
 
