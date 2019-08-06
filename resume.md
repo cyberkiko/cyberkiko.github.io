@@ -20,6 +20,13 @@ Lead Software Engineer with experience across a range of web development, produc
 ------
 
 ## Experience
+**Self-Employed/R&B Consulting, LLC** *Software Engineer Consultant* - Miami, Florida - __October 2017 to Present__
+
+After govWorks I took the time to start my own company, Rice & Beans Consulting, LLC. Currently, our main client is Zudy, and I have been full time dedicated to some of their projects. 
+- Worked in their No-Code Platform (SQL Server Base) to integrate with telephony APIs like Twilio. 
+- During the latest months worked in a different project on Healthcare/Fitness area to provide integration with multiple devices (Fitbit, Omron, Dexcom), using a LAMP Stack in combination on AWS services and iOS development. 
+
+Our second client is a orthodontics office, ([Mairelys Rodriguez Orthodontics](https://msrodriguezorthodontics.com)), basically involved building a website and social media integration feeds, is not fully finalized. Uses AWS and LAMP stack. 
 
 **govWorks LLC** *Lead Platform Engineer* - Miami, Florida - __October 2017 to August 31 2018__
 
